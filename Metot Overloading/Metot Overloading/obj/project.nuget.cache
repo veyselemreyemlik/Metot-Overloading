@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Kw+VUwG3GGqZ06j/pqAJWtEmBSKAQjPk3ytCZFjh/Dn2b9NrqPRGKe6EAphF5AO/n8Vzvl6msygRxmGzTHldA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\veyse\\OneDrive\\Masaüstü\\C# PROJELERİ\\Metot Overloading\\Metot Overloading\\Metot Overloading.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\veyse\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
